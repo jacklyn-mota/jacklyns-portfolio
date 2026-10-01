@@ -1,0 +1,16 @@
+/* CSS written by Jacklyn Mota */
+
+/* COLOR PALETTE 
+panda white: #EDEEF2
+ghost: #C3C9D8
+ink black: #070A0F
+dark metallic blue grey: #6B7B8C
+vintage dark blue: #2B3541
+*/
+
+/* GLOBAL (base) MOBILE STYLES */
+body {
+    background-color: #EDEEF2;
+    color: #2B3541;
+    font-family: sans-serif;
+}
