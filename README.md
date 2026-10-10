@@ -1,43 +1,57 @@
-# jacklyns-portfolio
-Jacklyn's First Portfolio
+# Jacklyn's Portfolio
+
+A Personal Portfolio Website by Jacklyn Mota
 
 ## Project Description
 
-This project is the beginning of my personal portfolio website. The portfolio is being created using HTML and CSS to organize information about me, my education, experience, skills, and projects.
+This project is my personal portfolio website, developed as part of a web development course. The website introduces me, highlights my background and skills, and showcases projects I have completed while developing my skills in web design and front-end development.
 
-This is an unfinished version of the website created as part of a web development Code-Along. The content and styling will be expanded and refined in future assignments.
+The portfolio is built using HTML5 and CSS3, with an emphasis on semantic HTML, responsive design, accessible content, and consistent styling across multiple pages. The design uses a neutral color palette with dark blue-gray accents to create a clean, modern presentation.
 
 ## Pages
 
-- `index.html` - Home page with a welcome section and portfolio introduction.
-- `about.html` - About Me page with a biography section.
-- `resume.html` - Resume page for education, experience, and skills.
-- `projects.html` - Projects page for showcasing completed and future projects.
-- `styles.css` - Shared stylesheet used across all pages.
-
+- `index.html` — Homepage featuring a welcome section, responsive hero banner, and featured projects.
+- `about.html` — About Me page introducing my background and interests.
+- `resume.html` — Resume page for education, experience, and skills.
+- `projects.html` — Projects page showcasing selected work, descriptions, and project screenshots.
+- `styles.css` — Shared stylesheet providing consistent styling and responsive layouts across the website.
 
 ## Current Features
 
 - Multi-page portfolio structure
 - Consistent navigation across pages
-- Relative links between HTML pages
+- Relative links connecting HTML pages
 - Shared CSS stylesheet
-- Basic mobile-first CSS foundation
-- Semantic HTML structure including header, navigation, main content, sections, and footer
+- Semantic HTML structure using header, navigation, main, section, article, and footer elements
+- Responsive hero banner with separate desktop and mobile images
+- Project descriptions accompanied by screenshots
+- Responsive layouts for different screen sizes
+- Consistent visual styling and color palette
+- Hover and keyboard-focus styles for navigation links
+- Organized content highlighting projects and skills
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Media queries for responsive design
+- GitHub Pages for website publishing
 
 ## Future Improvements
 
-- Add and refine portfolio content
-- Add education, experience, and skills to the resume page
-- Add descriptions and images for projects
-- Add contact information
-- Expand the CSS styling and visual design
-- Improve responsive design for different screen sizes
-- Continue refining the overall portfolio layout
+- Continue refining portfolio content and visual design
+- Expand education, experience, and skills information
+- Add more projects and detailed case studies
+- Refine responsive layouts across different screen sizes
+- Continue improving accessibility and usability
+- Update the portfolio as I complete additional coursework and projects
 
 ## Published Website
-[https://jacklyn-mota.github.io/jacklyns-portfolio/](https://jacklyn-mota.github.io/jacklyns-portfolio/)
+
+[Visit Jacklyn's Portfolio](https://jacklyn-mota.github.io/jacklyns-portfolio/)
 
 ## Author
 
-Built by Jacklyn Mota
+Jacklyn Mota
